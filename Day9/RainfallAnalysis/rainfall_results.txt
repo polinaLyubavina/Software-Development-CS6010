@@ -1,0 +1,90 @@
+CS 60110 Rainfall Analysis
+Rainfall data for Atlanta
+
+The average rainfall amount is 4.02  inches.
+The average rainfall amount for January is 4.30inches.
+The average rainfall amount for February is 4.23inches.
+The average rainfall amount for March is 4.80inches.
+The average rainfall amount for April is 3.58inches.
+The average rainfall amount for May is 3.59inches.
+The average rainfall amount for June is 4.28inches.
+The average rainfall amount for July is 4.36inches.
+The average rainfall amount for August is 4.08inches.
+The average rainfall amount for September is 3.80inches.
+The average rainfall amount for October is 2.76inches.
+The average rainfall amount for November is 3.73inches.
+The average rainfall amount for December is 4.68inches.
+
+The rain amount (in inches) of the four wettest months is: 14.63 13.65 12.51 9.94
+The rain amount (in inches) of the four driest months is: 0.07 0.26 0.58 0.75
+
+The median month is: 
+January 2006 3.53
+
+Rainfall data for Macon
+
+The average rainfall amount is 3.79  inches.
+The average rainfall amount for August is 3.24inches.
+The average rainfall amount for February is 4.13inches.
+The average rainfall amount for February is 3.44inches.
+The average rainfall amount for March is 4.61inches.
+The average rainfall amount for November is 3.79inches.
+The average rainfall amount for December is 4.07inches.
+The average rainfall amount for January is 3.56inches.
+The average rainfall amount for May is 4.34inches.
+The average rainfall amount for December is 4.10inches.
+The average rainfall amount for February is 3.59inches.
+The average rainfall amount for January is 2.89inches.
+The average rainfall amount for January is 3.65inches.
+
+The rain amount (in inches) of the four wettest months is: 12.87 12.66 12.62 12.25
+The rain amount (in inches) of the four driest months is: 0.01 0.02 0.12 0.25
+
+The median month is: 
+January 2011 3.13
+
+CS 60110 Rainfall Analysis
+Rainfall data for Atlanta
+
+The average rainfall amount is 4.02  inches.
+The average rainfall amount for January is 4.30inches.
+The average rainfall amount for February is 4.23inches.
+The average rainfall amount for March is 4.80inches.
+The average rainfall amount for April is 3.58inches.
+The average rainfall amount for May is 3.59inches.
+The average rainfall amount for June is 4.28inches.
+The average rainfall amount for July is 4.36inches.
+The average rainfall amount for August is 4.08inches.
+The average rainfall amount for September is 3.80inches.
+The average rainfall amount for October is 2.76inches.
+The average rainfall amount for November is 3.73inches.
+The average rainfall amount for December is 4.68inches.
+
+The rain amount (in inches) of the four wettest months is: 14.63 13.65 12.51 9.94
+The rain amount (in inches) of the four driest months is: 0.07 0.26 0.58 0.75
+
+The median month is: 
+January 2006 3.53
+
+Rainfall data for Macon
+
+The average rainfall amount is 3.79  inches.
+The average rainfall amount for August is 3.24inches.
+The average rainfall amount for February is 4.13inches.
+The average rainfall amount for February is 3.44inches.
+The average rainfall amount for March is 4.61inches.
+The average rainfall amount for November is 3.79inches.
+The average rainfall amount for December is 4.07inches.
+The average rainfall amount for January is 3.56inches.
+The average rainfall amount for May is 4.34inches.
+The average rainfall amount for December is 4.10inches.
+The average rainfall amount for February is 3.59inches.
+The average rainfall amount for January is 2.89inches.
+The average rainfall amount for January is 3.65inches.
+
+The rain amount (in inches) of the four wettest months is: 12.87 12.66 12.62 12.25
+The rain amount (in inches) of the four driest months is: 0.01 0.02 0.12 0.25
+
+The median month is: 
+January 2011 3.13
+
